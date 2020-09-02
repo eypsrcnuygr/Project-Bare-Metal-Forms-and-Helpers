@@ -1,24 +1,48 @@
-# README
+# Project-MicroReddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the project to learn about the forms on Rails.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+-   Ruby
+-   Rubocop
+-   Ubuntu
+-   Rails
 
-* System dependencies
+## Prerequisities
 
-* Configuration
+To get this project up and running locally, you must already have ruby and rails installed on your computer.
 
-* Database creation
+## Getting Started
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Eyüp Sercan UYGUR**
 
-* Services (job queues, cache servers, search engines, etc.)
+-   Github: [@eypsrcnuygr](https://github.com/eypsrcnuygr)
+-   Twitter: [@eypsrcnuygr](https://twitter.com/eypsrcnuygr)
+-   LinkedIn: [eypsrcnuygr](https://www.linkedin.com/in/eypsrcnuygr/)
+-   Gmail: <mailto:sercanuygur@gmail.com>
 
-* Deployment instructions
+👤 **Visvaldas Rapalis**
 
-* ...
+-   Github: [@visva-dev](https://github.com/visva-dev)
+-   LinkedIn: [Visvaldas Rapalis](https://www.linkedin.com/in/visvaldas-rapalis/)
+-   Gmail: <mailto:visva.rapalis@gmail.com>
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+-   This Project was part of an assignment available on The Odin Project.
+-   Our thanks to Microverse and all our peers and colleagues there.
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.

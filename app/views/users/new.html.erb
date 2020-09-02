@@ -46,7 +46,7 @@
 =end %>
 
 
-<%= form_for @users, url: { action: "/users" }, builder: UsersControler.create do |user| %>
+<%= form_for @users do |user| %>
   username: <%= user.text_field :username %><br />
   email : <%= user.email_field :email %><br />
   password : <%= user.password_field :password %><br />

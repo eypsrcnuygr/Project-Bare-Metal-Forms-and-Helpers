@@ -2,6 +2,8 @@
 
 This is the project to learn about the forms on Rails.
 
+![screenshot](./app/assets/images/Screenshot.png)
+
 ## Built With
 
 -   Ruby
@@ -14,6 +16,14 @@ This is the project to learn about the forms on Rails.
 To get this project up and running locally, you must already have ruby and rails installed on your computer.
 
 ## Getting Started
+
+**Setup**
+
+- Clone this repository with ```git clone git@github.com:eypsrcnuygr/Project-Bare-Metal-Forms-and-Helpers.git``` using your terminal or command line.<br>
+- Change to the project directory by entering ```cd Project-Bare-Metal-Forms-and-Helpers``` in the terminal<br>
+- Next run ```bundle install``` to install the necessary dependencies<br>
+- Run ```rails db:migrate``` to setup your local database.<br>
+- Finally run ```rails server``` to start the application.<br>
 
 ## Authors
 

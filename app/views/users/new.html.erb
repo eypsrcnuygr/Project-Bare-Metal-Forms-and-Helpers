@@ -45,10 +45,10 @@
 <%
 =end %>
 
-
-<%= form_for @users do |user| %>
-  username: <%= user.text_field :username %><br />
-  email : <%= user.email_field :email %><br />
-  password : <%= user.password_field :password %><br />
+<h1> This is the index page</h1>
+<%= form_for @user do |user| %>
+  Your username here : <%= user.text_field :username, placeholder: "Your username here" %><br />
+  Your email here : <%= user.email_field :email, placeholder: "Your email here" %><br />
+  Your password here : <%= user.password_field :password, placeholder: "Your password here" %><br />
   <%= user.submit %>
 <% end %>

@@ -1,4 +1,4 @@
-# Project-MicroReddit
+# Project-Forms
 
 This is the project to learn about the forms on Rails.
 
